@@ -1,3 +1,9 @@
+@media (max-width: 320px) and (max-height: 10em) {
+  .element {
+        width: 90%;   
+       }
+  }  
+
 body {
   background: url("/Images/backpaper.jpg") no-repeat center center fixed;
   /* Photo by Annie Spratt on Unsplash */
@@ -10,8 +16,9 @@ body {
 .pirate {
 }
 
+
 #myCarousel {
-  position: center;
+
 }
 
 /* #container {
