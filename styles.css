@@ -13,12 +13,15 @@ body {
   -o-background-size: cover;
 }
 
-.pirate {
+.carousel img {
+  width: 100%;
+  height: auto;
 }
 
-
-#myCarousel {
+h4 {
+  font-weight: bolder;
 }
+
 
 /* #container {
     font-family: sans-serif, Arial;
