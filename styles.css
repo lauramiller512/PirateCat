@@ -1,8 +1,8 @@
-.container {
+#container {
     font-family: sans-serif, Arial;
 }       /*this is a comment */
 
-.flex-fill {
+#flex-fill {
   background-image: url("/backblur.jpg");
   min-height: 100vh;
   background-repeat: no-repeat;
@@ -18,30 +18,26 @@ p {
   font-size: 120%;
   line-height: 1.75;
 }
-a{
+a {
   color: #8B008B;
   text-decoration: none;
 }
 
 .right {
   float: right;
-  }
+}
 
 img.pirate {
   border-width: 10px;
   border-style: solid;
   border-color: #ffffff;
   box-shadow: 5px 5px 15px rgba(0,0,0,.3)
-  }
+}
 
-#container {      /*how you specify a div */
-  background-image: url("backblur.jpg");
-  width: 80%
-  margin:auto; /*automatically adjusts margin to fit any page size */
-  }
 #header {
   text-align: center;
-  }
+}
+
 #body {
     width: 70%;
     text-align: center;
@@ -49,8 +45,9 @@ img.pirate {
     padding-bottom: 15px;
     border-radius: 40px;
     box-shadow: 5px 5px 15px rgba(0,0,0,.3)
-    }
-    #email {
+}
+
+#email {
     width: 55%;
     margin: auto;
     text-align: center;
@@ -59,9 +56,10 @@ img.pirate {
     border-radius: 30px;
     padding: 2px;
     box-shadow: 5px 5px 15px rgba(0,0,0,.5)
-    }
-  #footer {
+}
+
+#footer {
     text-align: center;
     padding: 10px;
     font-size: 50%;
-  }
+}
