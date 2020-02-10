@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-brand {
-  display: inline;
+  display: inline-block;
 }
 
 h4 {
