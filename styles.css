@@ -1,6 +1,16 @@
-#container {
+body {
+  background: url("/backblur.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+
+/* #container {
     font-family: sans-serif, Arial;
-}       /*this is a comment */
+}       /*this is a comment 
 
 #flex-fill {
   background-image: url("/backblur.jpg");
@@ -62,4 +72,4 @@ img.pirate {
     text-align: center;
     padding: 10px;
     font-size: 50%;
-}
+} */
