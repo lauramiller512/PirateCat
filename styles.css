@@ -1,5 +1,6 @@
 body {
-  background: url("/backblur.jpg") no-repeat center center fixed;
+  background: url("/Images/backpaper.jpg") no-repeat center center fixed;
+  /* Photo by Annie Spratt on Unsplash */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
