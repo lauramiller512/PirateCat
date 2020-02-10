@@ -10,6 +10,10 @@ body {
 .pirate {
 }
 
+#myCarousel {
+  position: center;
+}
+
 /* #container {
     font-family: sans-serif, Arial;
 }       /*this is a comment 
