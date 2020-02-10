@@ -18,6 +18,10 @@ body {
   height: auto;
 }
 
+.navbar-brand {
+  display: inline;
+}
+
 h4 {
   font-weight: bolder;
 }
