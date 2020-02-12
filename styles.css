@@ -22,6 +22,10 @@ body {
   display: inline-block;
 }
 
+.logo {
+  border-radius: 63px;
+}
+
 h4 {
   font-weight: bolder;
 }
