@@ -18,12 +18,14 @@ body {
   height: auto;
 }
 
-.navbar-brand {
+.navbar-left {
   display: inline-block;
 }
 
-.logo {
+#logo {
   border-radius: 63px;
+  height: 100px;
+  padding-left: 10px;
 }
 
 h4 {
