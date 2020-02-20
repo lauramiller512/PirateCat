@@ -49,3 +49,11 @@ div.desc {
   border-radius: 55px;
   padding-left: 10px;
 }
+
+body {
+  background-image: url(/Images/backpaper.jpg);
+}
+
+.title {
+  text-align: center;
+}
